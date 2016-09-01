@@ -1,4 +1,4 @@
-#Append to URL to remove Tableau Public container from viz
+#Append to share URL to remove Tableau Public container from viz
 
 &:showVizHome=no
 
