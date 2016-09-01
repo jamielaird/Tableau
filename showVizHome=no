@@ -1,0 +1,7 @@
+#Append to URL to remove Tableau Public container from viz
+
+&:showVizHome=no
+
+For example:
+
+https://public.tableau.com/views/Q2StudentVisaStatistics/Q22016UKStudentVisaStatistics?:embed=y&:display_count=yes&:showVizHome=no
